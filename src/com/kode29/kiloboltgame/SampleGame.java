@@ -9,7 +9,8 @@ import android.util.Log;
 
 import com.kode29.framework.Screen;
 import com.kode29.framework.implementation.AndroidGame;
-import com.kode29.kilobotgame.R;
+import com.kode29.kiloboltgame.R;
+
 
 public class SampleGame extends AndroidGame {
 
